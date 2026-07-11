@@ -1,0 +1,6 @@
+{
+  "name": "SK Premium Park - World Square Mall",
+  "description": "Premium 5-star hotel experience located at World Square Mall, Mohan Nagar, Sahibabad, Ghaziabad. Luxury rooms, sumptious buffets, and magnificent banquet halls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
